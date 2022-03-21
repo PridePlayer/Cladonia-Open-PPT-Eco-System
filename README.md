@@ -22,9 +22,8 @@ Litmus OS 并不是一个封闭的生态。我们不仅只是一个已经过于�
 ## Litmus OS
 Litmus OS 愿意以自己的开放，带来开放的洪流。
 
-首先，Litmus OS 开放自己的核心版本，你可以下载它。
-
-Litmus OS 将很快发布自己的设计规范（Planet Design/PNUI），包括其中的图标、字体。
+首先，Litmus OS 开放自己的核心版本，你可以下载它。   
+[Litmus OS 2002](https://github.com/PridePlayer/Litmus-OS-2002),[Litmus OS Pluto](https://github.com/PridePlayer/Litmus-OS-Pluto),[Litmus OS Pluto-Plus](https://github.com/PridePlayer/Litmus-OS-Pluto-Plus),[Litmus OS Pluto March](https://github.com/PridePlayer/Litmus-OS-Pluto-March)
 
 Litmus OS 欢迎所有人进行衍生开发。
 
