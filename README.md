@@ -16,14 +16,6 @@
 ## 目标
 我们希望最终达到如下一种境界：所有 PPT OS 都公开自己的组件、图标、设计规范、应用原型设计等元素，让每一个开发者都能够随意取用，让每一个人都能按照自己的喜好随意组装、修改，让所有 PPT OS 互联互通，互相连接协同，打造一个完整闭环的生态圈。
 
-## Litmus OS
-Litmus OS 愿意以自己的开放，带来开放的洪流。
-
-首先，Litmus OS 开放自己的核心版本，你可以下载它。   
-[Litmus OS 2002](https://github.com/PridePlayer/Litmus-OS-2002), [Litmus OS Pluto](https://github.com/PridePlayer/Litmus-OS-Pluto), [Litmus OS Pluto+](https://github.com/PridePlayer/Litmus-OS-Pluto-Plus), [Litmus OS Pluto March](https://github.com/PridePlayer/Litmus-OS-Pluto-March)
-
-Litmus OS 欢迎所有人进行衍生开发。
-
 ## 石蕊开放PPT许可证（自愿非强制使用）
 
-> 版权所有 (C) <年份> <版权所有者>本PPT原封不动地提供给公众，并且允许公众以任何形式修改、调整、更名或再发布。任何人不得以任何形式消除本许可证尤其是版权所有者的明显表达，但在再发布版本中不必依本许可证再发布。本许可证不以任何形式限制商业化用途或任何用途。本许可证不承担再发布版本的连带责任。
+> 版权所有 (C) <年份> <版权所有者>本PPT原封不动地提供给公众，并且允许公众以任何形式修改、调整、更名或再发布。但是在再发布的时候，必须在PPT中明显展示（在关于页面或版权页展示，不得放在页面外部或者设置为无色等）这一PPT的最初作者的信息。不过，再发布时可以去掉本许可证，可以选择是否继续按照本许可证开源。
